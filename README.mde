@@ -1,0 +1,4 @@
+# Covid_tracker_App
+It's website which fetched the live death recoveries data from an API and expressed with bar chart.
+
+I fatched data from random API and express the live death and affacted people from covid19 desease from many countries.
